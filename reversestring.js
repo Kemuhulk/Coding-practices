@@ -41,3 +41,6 @@ const reverse4 = (str) => [...str].reverse().join("");
 const reversed4 = reverse4("Hello how are you");
 
 console.log(reversed4);
+
+
+//output: 'uoy era woh olleH'
