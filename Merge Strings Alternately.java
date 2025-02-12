@@ -1,5 +1,8 @@
 // Leetcode question no.1768 : Merge Strings Alternately
 
+// Input: word1 = "abc", word2 = "pqr"
+// Output: "apbqcr"
+    
 class Solution {
     public String mergeAlternately(String word1, String word2) {
         StringBuilder merged = new StringBuilder();
