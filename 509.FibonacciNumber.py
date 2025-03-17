@@ -1,6 +1,7 @@
 ##Fibonacci Number
 
-# Leetcode qn.no.509
+# Dynamic Programming
+# Leetcode qn.no.509 
 
 # Input: n = 3
 # Output: 2
